@@ -1,0 +1,23 @@
+<div class="img-linha">
+                    <!-- INICIO LINHA DA GALERIA --> 
+                    <!-- ITEM GALERIA -->
+                    <div class="img-col">
+                        <img src="PAGINA-01/loja-virtual-php-parte-3/galeria/galeria-1.jpg" alt="" width="100%" class="produtoMiniatura">
+                    </div>
+                    <!-- FIM ITEM GALERIA -->
+                    <!-- ITEM GALERIA -->
+                    <div class="img-col">
+                        <img src="PAGINA-01/loja-virtual-php-parte-3/galeria/galeria-2.jpg" alt="" width="100%" class="produtoMiniatura">
+                    </div>
+                    <!-- FIM ITEM GALERIA -->
+                    <!-- ITEM GALERIA -->
+                    <div class="img-col">
+                        <img src="PAGINA-01/loja-virtual-php-parte-3/galeria/galeria-3.jpg" alt="" width="100%" class="produtoMiniatura">
+                    </div>
+                    <!-- FIM ITEM GALERIA -->
+                    <!-- ITEM GALERIA -->
+                    <div class="img-col">
+                        <img src="PAGINA-01/loja-virtual-php-parte-3/galeria/galeria-4.jpg" alt="" width="100%" class="produtoMiniatura">
+                    </div>
+                    <!-- FIM ITEM GALERIA -->
+                </div>
